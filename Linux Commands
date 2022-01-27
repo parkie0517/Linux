@@ -1,0 +1,9 @@
+ls (list): used to list directory contents
+man (manual): show usage of program, utility or funciton
+  space - next page, enter - next line, b - previous page
+mkdir (make directory)
+cd (change directory): used to change the directory of the working repository
+cd ..: move to parent directory
+cp (copy file): 
+mv (move): move file or change name of file
+rm (remove): remove file or directory
